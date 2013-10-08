@@ -1,0 +1,9 @@
+{
+  "name": "CommunityDirectoryWebService",
+  "description": "Community Directory Web Service",
+  "author": "Paul Parton <paulparton@gmail.com>",
+  "dependencies": {
+    "express": "",
+    "mongojs": ""
+  }  
+}
